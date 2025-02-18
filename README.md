@@ -33,7 +33,7 @@ sudo apt autoremove
 * [Difference between apt-get and apt](https://www.howtogeek.com/791055/apt-vs-apt-get-whats-the-difference-on-linux/)
 * [Github writting and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Understanding bin/dev and Procfile.dev](https://railsnotes.xyz/blog/procfile-bin-dev-rails7)
-* [Automate security updates for Ubuntu]((https://linuxize.com/post/how-to-set-up-automatic-updates-on-ubuntu-18-04/))
+* [Automate security updates for Ubuntu](https://linuxize.com/post/how-to-set-up-automatic-updates-on-ubuntu-18-04/)
 
 
 ## CSS Frameworks
